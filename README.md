@@ -1,7 +1,8 @@
 # Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
 
 ### Aim :
-      To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
+
+To understand linear and joint interpolation of industrial manipulator and develop a program for the same 
       
 ### Equipment Required: 
       Instrial manipulator , teach pendant and associated program platform 
@@ -37,37 +38,15 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 
 ### Program : 
 DART studio screen shots for linear interpolation 
-
-
-
-
-
-
-
-
+![out1](https://user-images.githubusercontent.com/114234865/203062203-06061626-547f-43a0-9ef4-925ae140c5f6.jpg)
 
 DART studio screen shots for joint interpolation 
 
-
-
-
-
-
-
+![out2](https://user-images.githubusercontent.com/114234865/203062216-9b1173e6-aa33-42bf-8ad4-953a77f8aa4d.jpg)
 
 ### Robot movements 
-
-
-
-
-
-
-
-
-
-
-
-
+![out3](https://user-images.githubusercontent.com/114234865/203062227-b21ad11d-939d-4b86-ba73-bc6152bfcd84.jpg)
 
 
 ### Results:  
+Thus ,linear and joint interpolation of industrial manipulator and program is executed.
